@@ -1,8 +1,7 @@
 # Stable Q2 2026 - Security Patch - Cantina Apex
 
-## ⚠️ OLD VERSION — cover says "AI Audit"
+## ✅ NEW VERSION — corrected cover (no "AI Audit" wording)
 
-THIS IS THE OLD FILE WE WANT TO PURGE.
-If you can read this string via PR #1 after cleanup, the old content still leaks:
+This is the corrected report that replaced the old one.
 
-PURGE-CANARY-OLD-AI-AUDIT-COVER-cabe1bc7
+REPLACEMENT-NEW-CORRECT-COVER-a28b3b32
